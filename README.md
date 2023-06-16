@@ -2,12 +2,12 @@
 Apply Pretrained Computer Vision Models and Evaluate Performance
 
 
-Aim
+# Aim
 
 Learn how to apply pretrained computer vision models and investigate their  performance.
 
 
-Workflow:
+# Workflow:
 
 1) Use 43 different frames of monitor
 2) Use imagenet_class_index.json file.
